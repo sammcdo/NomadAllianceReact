@@ -4,6 +4,10 @@
 - `npm run deploy`
 - push
 
+Use these links:
+[OG Setup](https://chrisdevcode.hashnode.dev/github-pages-with-react)
+[OG Setup 2](https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
