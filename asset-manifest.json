@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/NomadAllianceReact/static/css/main.073c9b0a.css",
-    "main.js": "/NomadAllianceReact/static/js/main.817853d9.js",
+    "main.js": "/NomadAllianceReact/static/js/main.30711232.js",
     "static/js/787.913671f3.chunk.js": "/NomadAllianceReact/static/js/787.913671f3.chunk.js",
     "static/media/logo.svg": "/NomadAllianceReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/NomadAllianceReact/index.html",
     "main.073c9b0a.css.map": "/NomadAllianceReact/static/css/main.073c9b0a.css.map",
-    "main.817853d9.js.map": "/NomadAllianceReact/static/js/main.817853d9.js.map",
+    "main.30711232.js.map": "/NomadAllianceReact/static/js/main.30711232.js.map",
     "787.913671f3.chunk.js.map": "/NomadAllianceReact/static/js/787.913671f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.817853d9.js"
+    "static/js/main.30711232.js"
   ]
 }
