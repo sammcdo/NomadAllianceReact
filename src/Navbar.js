@@ -1,16 +1,22 @@
+import { Link } from "react-router-dom";
 import "./Navbar.css";
 
 function Navbar() {
   return (
-    <div class="topnav">
-      <a href="index.html" class="w3-bar-item w3-button w3-padding-large">
-        <img
-          src="https://github.com/sammcdo/sammcdo.github.io/blob/master/Scorpion.png?raw=true"
-          alt="The NOMAD Alliance Home"
-          style="width:26px;border:0;"
-        />{" "}
-        The NOMAD Alliance
-      </a>
+    <div className="Navbar">
+      <div className="topnav">
+        <Link to="/" className="Home">
+          <img
+            src="https://github.com/sammcdo/sammcdo.github.io/blob/master/Scorpion.png?raw=true"
+            alt="The NOMAD Alliance Home"
+            style={{ height: "26px", border: 0 }}
+          />
+          <p>The NOMAD Alliance</p>
+        </Link>
+        <Link to="/About" className="w3-bar-item w3-button w3-padding-large">
+          <p>About</p>
+        </Link>
+      </div>
     </div>
     /*<div class="topnav">
       <a href="index.html" class="w3-bar-item w3-button w3-padding-large">
