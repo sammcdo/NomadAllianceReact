@@ -11,6 +11,16 @@ function Navbar() {
         />{" "}
         The NOMAD Alliance
       </a>
+    </div>
+    /*<div class="topnav">
+      <a href="index.html" class="w3-bar-item w3-button w3-padding-large">
+        <img
+          src="https://github.com/sammcdo/sammcdo.github.io/blob/master/Scorpion.png?raw=true"
+          alt="The NOMAD Alliance Home"
+          style="width:26px;border:0;"
+        />{" "}
+        The NOMAD Alliance
+      </a>
       <a href="teamStats.html" class="w3-bar-item w3-button w3-padding-large">
         Random Team Info
       </a>
@@ -42,7 +52,7 @@ function Navbar() {
         />
         <input type="submit" value="Go!" />
       </form>
-    </div>
+    </div>*/
   );
 }
 
