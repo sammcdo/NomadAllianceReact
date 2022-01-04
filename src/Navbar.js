@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import "./Navbar.css";
+import scorpion from "./scorpion.png";
 
 function Navbar() {
   return (
@@ -7,7 +8,7 @@ function Navbar() {
       <div className="topnav">
         <Link to="/" className="Home">
           <img
-            src="https://github.com/sammcdo/sammcdo.github.io/blob/master/Scorpion.png?raw=true"
+            src={scorpion}
             alt="The NOMAD Alliance Home"
             style={{ height: "26px", border: 0 }}
           />

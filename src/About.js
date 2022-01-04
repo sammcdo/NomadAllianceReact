@@ -1,5 +1,6 @@
 import "./About.css";
 import React from "react";
+import fullsendgif from "./fullsend.gif";
 
 class About extends React.Component {
   render() {
@@ -12,7 +13,7 @@ class About extends React.Component {
           </p>
           <br />
           <img
-            src="fullsend.gif"
+            src={fullsendgif}
             alt=""
             height="315px"
             style={{ borderRadius: "20px" }}
