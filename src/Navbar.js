@@ -17,6 +17,9 @@ function Navbar() {
         <Link to="/About" className="w3-bar-item w3-button w3-padding-large">
           <p>About</p>
         </Link>
+        <a href="https://forms.gle/4fqmM2osLWWVo8cQA">
+          <p>Contact</p>
+        </a>
       </div>
     </div>
     /*<div class="topnav">

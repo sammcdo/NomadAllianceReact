@@ -11,13 +11,13 @@
 }
 
 .topnav a {
-  float: right;
+  float: left;
   color: black;
   text-align: center;
   padding-left: 14px;
   padding-right: 14px;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 20px;
   height: 100%;
 }
 

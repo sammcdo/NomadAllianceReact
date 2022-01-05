@@ -5,6 +5,7 @@ import "./index.css";
 import App from "./App";
 import Navbar from "./Navbar";
 import About from "./About";
+import Contact from "./Contact";
 import reportWebVitals from "./reportWebVitals";
 import { HashRouter } from "react-router-dom";
 
@@ -15,6 +16,7 @@ ReactDOM.render(
       <Routes>
         <Route exact path="/" element={<App />} />
         <Route path="/about" element={<About />} />
+        <Route path="/contact" element={<Contact />} />
       </Routes>
     </HashRouter>
   </React.StrictMode>,
