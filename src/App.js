@@ -26,7 +26,7 @@ class App extends React.Component {
               <iframe
                 width="560"
                 height="315"
-                src="https://clips.twitch.tv/embed?clip=BloodyWanderingPuddingTebowing-QH8wNCgV7tq0Zhcg"
+                src="https://clips.twitch.tv/embed?clip=BloodyWanderingPuddingTebowing-QH8wNCgV7tq0Zhcg&parent=sammcdo.github.io"
                 frameborder="0"
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen
